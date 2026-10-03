@@ -147,3 +147,10 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# SvelteKit build output
+/build
+
+# local tooling
+.kilo/
+.playwright-cli/
